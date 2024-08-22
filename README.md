@@ -52,5 +52,5 @@
 
 ### 📈 Activity Graph
 
-![Dhaarun's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=your-username&theme=react-dark)
+![Dhaarun's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dhaarun-Abhimanyu&theme=react-dark)
 
