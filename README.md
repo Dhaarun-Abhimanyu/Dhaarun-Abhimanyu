@@ -31,5 +31,4 @@
 
 ### 📈 Activity Graph
 
-[![Dhaarun's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dhaarun-Abhimanyu)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![Dhaarun's Activity Graph](https://github-readme-stats.vercel.app/api/growth?username=Dhaarun-Abhimanyu&color=brightgreen&title_color=ffffff&bg_color=0078d4&text_color=ffffff)
