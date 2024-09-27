@@ -1,29 +1,8 @@
-## Hi there 👋, I'm Dhaarun Abhimanyu !
+# I use arch btw
 
-### About Me
-
-- 👀 **Interests:** 
-  - Software development
-  - Open source projects
-  - Problem-solving through coding
-  - Emerging technologies
-
-- 🌱 **Currently Learning:**
-  - MERN stack web development with a focus on back-end technologies
-  - Advanced algorithms and data structures
-
-- 💞️ **Looking to Collaborate On:** 
-  - Innovative open-source projects
-  - Cutting-edge web applications
-  - Cross-platform development
-  - Coding challenges and hackathons
-
-- 📫 **How to Reach Me:** 
+### 📫 **How to Reach Me:** 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhaarun-abhimanyu/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dabi_ryuk/)
 
-- 😄 **Pronouns:** He/Him
-
-- ⚡ **Fun Fact:** I beat pokemon emerald with only a feebas!!
 
 ### My Tech Stack
 
