@@ -28,7 +28,3 @@
 
 ### 🔧 Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhaarun-Abhimanyu&layout=compact&theme=radical)
-
-### 📈 Activity Graph
-
-![Dhaarun's Activity Graph](https://github-readme-stats.vercel.app/api/growth?username=Dhaarun-Abhimanyu&color=brightgreen&title_color=ffffff&bg_color=0078d4&text_color=ffffff)
