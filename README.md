@@ -31,5 +31,5 @@
 
 ### 📈 Activity Graph
 
-![Dhaarun's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dhaarun-Abhimanyu&theme=react-dark)
+[![Dhaarun's github activity graph](https://activity-graph.herokuapp.com/graph?username=Dhaarun-Abhimanyu)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
